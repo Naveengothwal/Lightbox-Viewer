@@ -1,5 +1,5 @@
 # Lightbox-Viewer
-you will create a lightbox gallery that displays full-size images when a thumbnail is clicked. For each image, two versions are provided: a thumbnail and a full-size image. The full-size image is the same as the thumbnail, but without the -thumbnail suffix.
+you will create a lightbox gallery that displays full-size images when a thumbnail is clicked. For each image, two versions are provided: a thumbnail and a full-size image. The full-size image is the same as the thumbnail, but without the -thumbnail suffix. 
 
 1. You should have a div with a class of gallery within your body.
 
